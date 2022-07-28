@@ -1,2 +1,5 @@
 
 /* slider-caption-customize */
+.overlay{
+    filter:brightness(50%);
+}
