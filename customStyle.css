@@ -1,5 +1,13 @@
 
-/* slider-caption-customize */
+/* slider image dark*/
 .overlay{
     filter:brightness(50%);
+}
+
+/* elearning-Institute-background color */
+.elearning-Institute-bg{
+    background-color:  #F4FAFD ;
+  
+border-radius: 5px;
+
 }
